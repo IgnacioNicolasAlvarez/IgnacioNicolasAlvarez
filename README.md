@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @IgnacioNicolasAlvarez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-IgnacioNicolasAlvarez/IgnacioNicolasAlvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm @IgnacioNicolasAlvarez.
+👀 I'm interested in learning and working with Big Data technologies.
+🌱 I'm currently learning and exploring the world of Big Data.
+💼 I'm an experienced Data Engineer with 4 years of industry experience.
+📚 I hold certifications in Azure and Databricks.
+💞️ I'm looking to collaborate on Big Data projects and data engineering challenges.
+📫 You can reach me at [Your Contact Information].
