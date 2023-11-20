@@ -10,5 +10,4 @@
 
 💞️ I'm looking to collaborate on Big Data projects and data engineering challenges.
 
-📫 You can reach me at [Your Contact Information].
-
+📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/ignacio-nicolas-alvarez/).
